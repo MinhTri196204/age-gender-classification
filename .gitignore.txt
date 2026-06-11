@@ -1,0 +1,19 @@
+# Dataset
+UTKFace/
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+.env
+
+# Images
+*.jpg
+*.jpeg
+*.png
+
+# CSV & ZIP
+*.csv
+*.zip
